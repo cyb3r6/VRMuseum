@@ -1,0 +1,220 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 49069 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+G:/Unity/GitHub/CS/VRMuseum/VRMuseumApp
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52887
+Successfully changed project path to: G:/Unity/GitHub/CS/VRMuseum/VRMuseumApp
+G:/Unity/GitHub/CS/VRMuseum/VRMuseumApp
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/Unity/GitHub/CS/VRMuseum/VRMuseumApp/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2486)
+    Vendor:   
+    VRAM:     8050 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56896
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002598 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 27.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.800 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000700 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 28.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.903 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.8 MB.
+System memory in use after: 78.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2172.
+Total: 2.062600 ms (FindLiveObjects: 0.184300 ms CreateObjectMapping: 0.068500 ms MarkObjects: 1.732600 ms  DeleteObjects: 0.075900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Left Controller.preset
+  artifactKey: Guid(ffd8268f7307a0c48a067dad4a8fe060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Left Controller.preset using Guid(ffd8268f7307a0c48a067dad4a8fe060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38b5808f862010cc71bf7941031987c') in 0.052412 seconds
+  Import took 0.054865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Continuous Move.preset
+  artifactKey: Guid(91f9da00cfdac5d49955df2d2d820b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Continuous Move.preset using Guid(91f9da00cfdac5d49955df2d2d820b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fbcd3ff63fcd09b3be425163d5c9845') in 0.010417 seconds
+  Import took 0.013119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Snap Turn.preset
+  artifactKey: Guid(18697d253d848974aa7052cba872c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Snap Turn.preset using Guid(18697d253d848974aa7052cba872c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '698c7e2c2901237432c76581133fb1f1') in 0.007781 seconds
+  Import took 0.010712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Input Actions.inputactions
+  artifactKey: Guid(c348712bda248c246b8c49b3db54643f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Input Actions.inputactions using Guid(c348712bda248c246b8c49b3db54643f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '670d601190d6af6e8acbc886cfeb4a85') in 0.015199 seconds
+  Import took 0.017840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Continuous Turn.preset
+  artifactKey: Guid(0caad3af14f9a414dbdf25ed41e5aa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Continuous Turn.preset using Guid(0caad3af14f9a414dbdf25ed41e5aa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e039f96452fb154a4fabce180b317f') in 0.008950 seconds
+  Import took 0.011903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Right Controller.preset
+  artifactKey: Guid(1421ad86ff3787b4dae70fe9e699a25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Right Controller.preset using Guid(1421ad86ff3787b4dae70fe9e699a25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65125089cd0625cc6bab119de3db7aad') in 0.008034 seconds
+  Import took 0.010643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 209.978921 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Input Actions.inputactions
+  artifactKey: Guid(c348712bda248c246b8c49b3db54643f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.0.0-pre.5/Default Input Actions/XRI Default Input Actions.inputactions using Guid(c348712bda248c246b8c49b3db54643f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb8a46ee3defcf97f09bdd8026250320') in 0.012202 seconds
+  Import took 0.015421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.615579 seconds.
+  path: Assets/Scripts/ButtonUIInteractable.cs
+  artifactKey: Guid(113d6f5abbaf70f4691d9c7dc40aa326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ButtonUIInteractable.cs using Guid(113d6f5abbaf70f4691d9c7dc40aa326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a0113eea83c7ac3e0b90b09375be9a') in 0.044282 seconds
+  Import took 0.047424 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000638 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1733 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.4 MB.
+System memory in use after: 79.4 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2182.
+Total: 1.739200 ms (FindLiveObjects: 0.136800 ms CreateObjectMapping: 0.042400 ms MarkObjects: 1.498600 ms  DeleteObjects: 0.060400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.136263 seconds.
+  path: Assets/VR Museum/Scenes/VRMuseum.unity
+  artifactKey: Guid(dd0b8cfea1541484c848a69ba21250ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Museum/Scenes/VRMuseum.unity using Guid(dd0b8cfea1541484c848a69ba21250ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e370d34c643596acc540a5c88be9fd7') in 0.013668 seconds
+  Import took 0.016320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 182.798686 seconds.
+  path: Assets/VR Museum/Prefabs/SoundPlayerCanvas.prefab
+  artifactKey: Guid(669232dcfb14b9e4e955bc66c058d1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Museum/Prefabs/SoundPlayerCanvas.prefab using Guid(669232dcfb14b9e4e955bc66c058d1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f00b877eb44e90b8945c6643a859eb8') in 0.537744 seconds
+  Import took 0.540755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.877922 seconds.
+  path: Assets/VR Museum/3rd Party/3D Models/Vessels/source/Deinos Vessel Retopo.obj
+  artifactKey: Guid(38e66a49e702d8f44bb11b583c3b7142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Museum/3rd Party/3D Models/Vessels/source/Deinos Vessel Retopo.obj using Guid(38e66a49e702d8f44bb11b583c3b7142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e052a53b94d3550d2ccac96da059ae') in 0.252657 seconds
+  Import took 0.255284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/VR Museum/3rd Party/3D Models/Vessels/source/Oinochoe with satyr.obj
+  artifactKey: Guid(f66c609bdcbd95c44b7132d717288bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Museum/3rd Party/3D Models/Vessels/source/Oinochoe with satyr.obj using Guid(f66c609bdcbd95c44b7132d717288bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ed4a3ba0f09c4340b7dd5dcba80e20') in 0.034825 seconds
+  Import took 0.037641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/VR Museum/3rd Party/3D Models/Vessels/source/Lekythos2.obj
+  artifactKey: Guid(d48b83684a3c55140a3f8b4cc7028cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Museum/3rd Party/3D Models/Vessels/source/Lekythos2.obj using Guid(d48b83684a3c55140a3f8b4cc7028cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfd77188ba6a810642213bd34d6ee91') in 0.026387 seconds
+  Import took 0.029091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.738522 seconds.
+  path: Assets/VR Museum/3rd Party/3D Models/Vessels/materials/Denios.mat
+  artifactKey: Guid(ba5511e5b6c1e5045861a53d04418768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Museum/3rd Party/3D Models/Vessels/materials/Denios.mat using Guid(ba5511e5b6c1e5045861a53d04418768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f208fd492a509c9440ba52f706c6adf') in 0.436211 seconds
+  Import took 0.438897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/VR Museum/3rd Party/3D Models/Vessels/materials/Oinoche.mat
+  artifactKey: Guid(d6c4ad130884bd846bf965da7be26c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Museum/3rd Party/3D Models/Vessels/materials/Oinoche.mat using Guid(d6c4ad130884bd846bf965da7be26c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d10bf37ea463715c954d006374fca95') in 0.019940 seconds
+  Import took 0.022794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/VR Museum/3rd Party/3D Models/Vessels/materials/Lekythos.mat
+  artifactKey: Guid(542112a418a058740985fac5fc37d376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Museum/3rd Party/3D Models/Vessels/materials/Lekythos.mat using Guid(542112a418a058740985fac5fc37d376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678ba6ed8cc64c4f17925083834bf8bc') in 0.075855 seconds
+  Import took 0.078448 seconds .
+
